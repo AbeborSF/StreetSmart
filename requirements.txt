@@ -1,0 +1,11 @@
+Flask
+Flask-SQLAlchemy
+Flask-login
+Flask-WTF
+WTForms
+Flask-Mail
+Twilio
+Flask-Migrate
+Flask-Paginate
+Flask-Bcrypt
+gunicorn
